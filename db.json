@@ -1,0 +1,74 @@
+{
+    "comments": [
+      {
+        "unique_id": 1,
+        "id": 1,
+        "name": "Jai Bhalla",
+        "comment": "This is a great post.",
+        "time": "2 months ago"
+      },
+      {
+        "unique_id": 2,
+        "id": 2,
+        "name": "Juhi Bhalla",
+        "comment": "This is a great post.",
+        "time": "1 months ago"
+      },
+      {
+        "unique_id": 3,
+        "id": 3,
+        "name": "Ujjwal Garg",
+        "comment": "This is post is not that great.",
+        "time": "1 months ago"
+      },
+      {
+        "unique_id": 4,
+        "id": 4,
+        "name": "Harman",
+        "comment": "This post is awesome.",
+        "time": "3 weeks ago"
+      },
+      {
+        "unique_id": 5,
+        "id": 5,
+        "name": "Mridul",
+        "comment": "Kudos.",
+        "time": "3 weeks ago"
+      },
+      {
+        "unique_id": 6,
+        "id": 6,
+        "name": "James Anderson",
+        "comment": "I love India.",
+        "time": "2 weeks ago"
+      },
+      {
+        "unique_id": 7,
+        "id": 7,
+        "name": "Naman Rath",
+        "comment": "I love ronaldo.",
+        "time": "1 weeks ago"
+      },
+      {
+        "unique_id": 8,
+        "id": 8,
+        "name": "Arnab Gosh",
+        "comment": "This is so boring.",
+        "time": "3 days ago"
+      },
+      {
+        "unique_id": 9,
+        "id": 9,
+        "name": "Baibhav",
+        "comment": "I doing doing android development.",
+        "time": "1 days ago"
+      },
+      {
+        "unique_id": 10,
+        "id": 10,
+        "name": "Devansh",
+        "comment": "I love virat kohli.",
+        "time": "16 hours ago"
+      }
+    ]
+}
